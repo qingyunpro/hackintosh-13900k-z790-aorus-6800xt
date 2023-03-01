@@ -2,10 +2,15 @@
 黑苹果安装指南
 
 opencore 0.8.8
+
 intel i9 13900k
+
 z790 aorus elite ax ddr5
+
 6800xt
+
 ddr5 7200mhz 16g*2
+
 sn850x 2t
 
 黑苹果最简单的安装方式：
