@@ -1,7 +1,7 @@
 # hackintosh-13900k-z790-aorus-6800xt
 黑苹果安装指南
 
-
+opencore 0.8.8
 intel i9 13900k
 z790 aorus elite ax ddr5
 6800xt
