@@ -1,4 +1,4 @@
-# hackintosh-13900k-z790-aorus-6800xt#
+# hackintosh-13900k-z790-aorus-6800xt #
 黑苹果安装指南
 
 opencore 0.8.8
